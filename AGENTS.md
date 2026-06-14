@@ -1,6 +1,6 @@
 # Jesper - Geofysikk
 
-Workspace: `C:\Users\jespe\Projects\Jesper`
+Workspace: `/Users/jesperhammersvik/Projects/Jesper`
 
 ## Identitet
 
@@ -14,4 +14,3 @@ Workspace: `C:\Users\jespe\Projects\Jesper`
 - Hald dette separat frå Peveo og Stoad.
 - Les `../WORKSPACES.md` før strukturendringar.
 - Commit/push berre når brukaren ber om det.
-
